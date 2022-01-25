@@ -28,3 +28,9 @@ There is some attribute information such as: ID number and Diagnosis (M = malign
 
 ## Results
 I have checked the efficiency of a trained model on the test data and labels. In this case, the accuracy of the method is about 96,5%, which is high enough. So, I made a conclusion that the implementation using logistic regression classifier is suitable and efficient.
+
+
+----------------
+This project was implemented as a part of [Breast Cancer Prediction Using Machine Learning](https://www.coursera.org/projects/breast-cancer-prediction-using-machine-learning) guided project on Coursera.
+
+[Course sertificate](https://www.coursera.org/account/accomplishments/verify/E7JKDG8R55CC?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=project)
