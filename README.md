@@ -20,7 +20,7 @@ There is some attribute information such as: ID number and Diagnosis (M = malign
 
 ## Implementation
 1. Load & exlore the dataset
-2. Perfirm LabelEncoding
+2. Perform LabelEncoding
 3. Split the data into independent and dependent sets; perform feature scaling
 4. Build logistic regression classifier
 5. Evaluate the performance of the model
